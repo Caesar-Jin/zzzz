@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <l count="9">
+        <p name="Mike" age="17"/>
+        <p name="May" age="19"/>
+        <p name="Jack" age="17"/>
+        <p name="Pony" age="15"/>
+        <p name="Emy" age="13"/>
+        <p name="Amy" age="15"/>
+    </l>
+    <d>
+        <el key="a" value="996">
+            梦想，行动，坚持
+        </el>
+        <el key="b" value="007">
+            Subtle is the Lord, but malicious He is not.
+            <p x="5"/>
+        </el>
+        <el key="c" value="955">
+            地狱与天堂只是一念之间。
+        </el>
+    </d>
+</set>
